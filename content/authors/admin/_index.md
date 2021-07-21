@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist
+role: Senior Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Baylor Scott and White Health
-  url: "https://www.bswhealth.com/"
+- name: HMS
+  url: "https://hms.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include data science, machine learning and artificial intelligence.
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Imad Dabbura is a Data Scientist at Baylor Scott and White Health. He has many years of experience in predictive analytics where he worked in a variety of industries such as **Consumer Goods, Real Estate, Marketing, and Healthcare**.
+Imad Dabbura is a Senior Data Scientist at HMS. He has many years of experience in predictive analytics where he worked in a variety of industries such as **Consumer Goods, Real Estate, Marketing, and Healthcare**.
 
 Among other things, Imad is interested in Artificial Intelligence and Machine Learning. He writes articles related to machine learning and AI on [*Medium*](https://medium.com/@ImadPhd) and contributes to open source such as publishing his educational notebooks on [github](https://github.com/ImadDabbura).
